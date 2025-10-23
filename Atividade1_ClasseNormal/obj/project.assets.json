@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\54568719801\\Desktop\\Atividade poo\\Atividade1_ClasseNormal\\Atividade poo.csproj",
+      "projectUniqueName": "C:\\Users\\54568719801\\Desktop\\Atividades poo\\Atividade1_ClasseNormal\\Atividade poo.csproj",
       "projectName": "Atividade poo",
-      "projectPath": "C:\\Users\\54568719801\\Desktop\\Atividade poo\\Atividade1_ClasseNormal\\Atividade poo.csproj",
+      "projectPath": "C:\\Users\\54568719801\\Desktop\\Atividades poo\\Atividade1_ClasseNormal\\Atividade poo.csproj",
       "packagesPath": "C:\\Users\\54568719801\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\54568719801\\Desktop\\Atividade poo\\Atividade1_ClasseNormal\\obj\\",
+      "outputPath": "C:\\Users\\54568719801\\Desktop\\Atividades poo\\Atividade1_ClasseNormal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\54568719801\\AppData\\Roaming\\NuGet\\NuGet.Config"
