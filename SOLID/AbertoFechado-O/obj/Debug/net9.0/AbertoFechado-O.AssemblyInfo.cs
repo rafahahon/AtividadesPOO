@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbertoFechado-O")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35af0b9445c5be107ecdf6cab7865f8fb5a6c6f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7624f24ade8ce4ecaacf0b26d8d2783ea555407a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbertoFechado-O")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbertoFechado-O")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
