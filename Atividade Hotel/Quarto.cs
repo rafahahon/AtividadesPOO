@@ -30,7 +30,7 @@ namespace Atividade_Hotel
 
         public void Liberar()
         {
-            if(Disponivel = false)
+            if(Disponivel == false)
             {
                 Console.WriteLine("Quarto liberado com sucesso!");
                 Disponivel = true;

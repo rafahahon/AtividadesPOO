@@ -4,12 +4,9 @@ namespace Atividade_Hotel
     public class ReservaVip : Reserva
     {
         public double Desconto = 0.5;
-       /* public int Dias { get; }
-        public double PrecoDiaria { get; }
+        public int Dias { get; set; }
+        public double PrecoDiaria { get; set; }
 
-        public override CalcularTotal()
-        {
-            PrecoDiaria * Dias / Desconto;
-        } */
+        public override double CalcularTotal() => PrecoDiaria * Dias * Desconto;
     }
 }

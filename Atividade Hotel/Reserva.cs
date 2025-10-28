@@ -1,17 +1,14 @@
 
 namespace Atividade_Hotel
 {
-    public class Reserva : Quarto
+    public class Reserva
     {
         public string Hospede { get; set; }
         public int Quarto { get; set; }
         public int Dias { get; set; }
-        public double PrecoDiaria { get; }
+        public double PrecoDiaria { get; set; } 
 
-       /* public virtual void CalcularTotal()
-        {
-            PrecoDiaria * Dias;
-        } */
+       public virtual double CalcularTotal() => PrecoDiaria * Dias;
 
         public void ResumoReserva()
         {

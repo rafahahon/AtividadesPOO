@@ -34,21 +34,30 @@ class Program
             Disponivel = false
         };
 
-        /*Reserva reserva1 = new Reserva
+        Reserva reserva1 = new Reserva
         {
-            Hospede = hospede1,
-            Quarto = quarto1(),
-            Dias = 3
+            Hospede = "hospede1",
+            Quarto = 101,
+            Dias = 3,
+            PrecoDiaria = 99.99
         };
 
+
+        //reserva1.ResumoReserva();
+        //Console.WriteLine($"O valor total da reserva foi de: R${reserva1.CalcularTotal():F2}");
+    
+
+    
         ReservaVip reserva2 = new ReservaVip
         {
+            Dias = 7,
+            PrecoDiaria = 199.99
+        };
+        
+        Console.WriteLine($"O valor total da reserva VIP foi de: R${reserva2.CalcularTotal():F2}");
 
-        }
-        */
+        //hospede1.ExibirInformacoes();
 
-        hospede1.ExibirInformacoes();
-
-        quarto2.Ocupar();
+        //quarto2.Ocupar();
     }
 }
