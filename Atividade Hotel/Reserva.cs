@@ -1,14 +1,13 @@
 
 namespace Atividade_Hotel
 {
-    public class Reserva
+    public class Reserva 
     {
         public string Hospede { get; set; }
         public int Quarto { get; set; }
         public int Dias { get; set; }
-        public double PrecoDiaria { get; set; } 
 
-       public virtual double CalcularTotal() => PrecoDiaria * Dias;
+       public virtual void CalcularTotal(double PrecoDiaria) => Console.WriteLine($"O valor total da reserva foi de: R${PrecoDiaria * Dias:F2}");
 
         public void ResumoReserva()
         {

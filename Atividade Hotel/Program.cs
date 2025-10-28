@@ -36,28 +36,25 @@ class Program
 
         Reserva reserva1 = new Reserva
         {
-            Hospede = "hospede1",
-            Quarto = 101,
+            Hospede = hospede1.Nome,
+            Quarto = quarto1.Numero,
             Dias = 3,
-            PrecoDiaria = 99.99
         };
 
 
-        //reserva1.ResumoReserva();
-        //Console.WriteLine($"O valor total da reserva foi de: R${reserva1.CalcularTotal():F2}");
-    
+        reserva1.ResumoReserva();
+        reserva1.CalcularTotal(quarto1.PrecoDiaria);
 
     
-        ReservaVip reserva2 = new ReservaVip
-        {
-            Dias = 7,
-            PrecoDiaria = 199.99
+        ReservaVip reserva2 = new ReservaVip{
+            Dias = 4
         };
+
+        reserva2.CalcularTotal(quarto2.PrecoDiaria, reserva2.Dias);
         
-        Console.WriteLine($"O valor total da reserva VIP foi de: R${reserva2.CalcularTotal():F2}");
 
-        //hospede1.ExibirInformacoes();
+        hospede1.ExibirInformacoes();
 
-        //quarto2.Ocupar();
+        quarto2.Ocupar();
     }
 }
