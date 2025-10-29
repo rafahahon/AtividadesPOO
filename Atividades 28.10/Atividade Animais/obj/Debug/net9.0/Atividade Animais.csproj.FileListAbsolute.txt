@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\bin\Debug\net9.0\Atividade Animais.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\bin\Debug\net9.0\Atividade Animais.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\bin\Debug\net9.0\Atividade Animais.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\bin\Debug\net9.0\Atividade Animais.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\bin\Debug\net9.0\Atividade Animais.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\obj\Debug\net9.0\Atividade Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\obj\Debug\net9.0\Atividade Animais.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\obj\Debug\net9.0\Atividade Animais.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\obj\Debug\net9.0\Atividade Animais.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\obj\Debug\net9.0\Atividade Animais.sourcelink.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\obj\Debug\net9.0\Atividade Animais.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\obj\Debug\net9.0\refint\Atividade Animais.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\obj\Debug\net9.0\Atividade Animais.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\obj\Debug\net9.0\Atividade Animais.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Animais\obj\Debug\net9.0\ref\Atividade Animais.dll
