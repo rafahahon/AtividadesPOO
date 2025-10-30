@@ -4,57 +4,21 @@ class Program
 {
     static void Main(string[] args)
     {
-        Hospede hospede1 = new Hospede
+        Hospede hospede1 = new Hospede("Ana Souza", "123.456.789-00", "(11) 99999 9999");
+        Hospede hospede2 = new Hospede("Mayara Almeida", "321.654.789-00", "(11) 88888 9999");
+
+        Quarto quarto1 = new Quarto(101, "Suite", 400);
+        Quarto quarto2 = new Quarto(102, "Duplo", 500);
+
+        Reserva reserva1 = new Reserva(hospede1, quarto1, 3);
+        ReservaVip reservaVip1 = new ReservaVip(hospede2, quarto2, 2, 10);
+
+        List<Reserva> reservas = new List<Reserva> {reserva1, reservaVip1};
+
+        foreach(var reserva in reservas)
         {
-            Nome = "Rafaella Hahon",
-            Cpf = "4324234-44",
-            Telefone = 324242542
-        };
-
-        Hospede hospede2 = new Hospede
-        {
-            Nome = "Mayara Almeida",
-            Cpf = "546234-44",
-            Telefone = 35436546
-        };
-
-        Quarto quarto1 = new Quarto 
-        {
-            Numero = 101,
-            Tipo = "Simples",
-            PrecoDiaria = 99.99,
-            Disponivel = true
-        };
-
-        Quarto quarto2 = new Quarto 
-        {
-            Numero = 102,
-            Tipo = "Duplo",
-            PrecoDiaria = 199.99,
-            Disponivel = false
-        };
-
-        Reserva reserva1 = new Reserva
-        {
-            Hospede = hospede1.Nome,
-            Quarto = quarto1.Numero,
-            Dias = 3,
-        };
-
-
-        reserva1.ResumoReserva();
-        reserva1.CalcularTotal(quarto1.PrecoDiaria);
-
-    
-        ReservaVip reserva2 = new ReservaVip{
-            Dias = 4
-        };
-
-        reserva2.CalcularTotal(quarto2.PrecoDiaria, reserva2.Dias);
-        
-
-        hospede1.ExibirInformacoes();
-
-        quarto2.Ocupar();
+            reserva.CalcularTotal();
+            Console.WriteLine(reserva.ResumoReserva());
+        }
     }
 }

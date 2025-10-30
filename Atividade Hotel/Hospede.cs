@@ -5,7 +5,15 @@ namespace Atividade_Hotel
     {
         public string Nome { get; set; }
         public string Cpf { get; set; }
-        public int Telefone { get; set; }
+        public string Telefone { get; set; }
+
+        // metodo construtor
+        public Hospede(string NomeConstrutor, string CPFconstrutor, string TelefoneConstrutor)
+        {
+            Nome = NomeConstrutor;
+            Cpf = CPFconstrutor;
+            Telefone = TelefoneConstrutor;
+        }
 
         public void ExibirInformacoes()
         {

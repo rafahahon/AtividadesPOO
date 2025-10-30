@@ -1,17 +1,30 @@
 
 namespace Atividade_Hotel
 {
-    public class Reserva 
+    public class Reserva
     {
-        public string Hospede { get; set; }
-        public int Quarto { get; set; }
+        public Hospede HospedeReserva { get; set; }
+        public Quarto QuartoReserva { get; set; }
         public int Dias { get; set; }
+        public double ValorTotal { get; set; }
 
-       public virtual void CalcularTotal(double PrecoDiaria) => Console.WriteLine($"O valor total da reserva foi de: R${PrecoDiaria * Dias:F2}");
+        public Reserva(Hospede HospedeConstrutor, Quarto QuartoConstrutor, int DiasConstrutor)
+        { // Sempre é passado o tipo do dado (Hospede) e o nome da variável (HospedeConstrutor)
+            HospedeReserva = HospedeConstrutor;
+            QuartoReserva = QuartoConstrutor;
+            Dias = DiasConstrutor;
+        }
 
-        public void ResumoReserva()
+        public virtual double CalcularTotal()
         {
-            Console.WriteLine($"Informacoes da reserva:\nHospede: {Hospede}.\nQuarto: {Quarto}.\nDias: {Dias}");
+            ValorTotal = QuartoReserva.PrecoDiaria * Dias;
+            return ValorTotal;
+        }
+
+        public virtual string ResumoReserva()
+        {
+            return
+                 $"Hóspede {HospedeReserva.Nome} está hospedado(a) no quarto {QuartoReserva.Numero} por {Dias} dias. Pagando o total de R${ValorTotal}.";
         }
     }
 }

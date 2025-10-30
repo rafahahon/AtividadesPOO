@@ -8,7 +8,16 @@ namespace Atividade_Hotel
         public int Numero { get; set; }
         public string Tipo { get; set; }
         public double PrecoDiaria { get; set; }
-        public bool Disponivel { get; set; } = true;
+        public bool Disponivel { get; set; } 
+
+        // metodo construtor
+        public Quarto(int NumeroQuartoConstrutor, string TipoQuartoConstrutor, double PrecoDiariaConstrutor){
+            Numero = NumeroQuartoConstrutor;
+            Tipo = TipoQuartoConstrutor;
+            PrecoDiaria = PrecoDiariaConstrutor;
+
+            Disponivel = true; // Quarto inicializa como disponível
+        }
 
         public void ExibirDetalhes()
         {
@@ -19,8 +28,8 @@ namespace Atividade_Hotel
         {
             if(Disponivel) 
             {
-                Console.WriteLine("Quarto ocupado com sucesso!");
                 Disponivel = false;
+                Console.WriteLine("Quarto ocupado com sucesso!");
             }
             else 
             {
@@ -30,10 +39,10 @@ namespace Atividade_Hotel
 
         public void Liberar()
         {
-            if(Disponivel == false)
+            if(!Disponivel)
             {
-                Console.WriteLine("Quarto liberado com sucesso!");
                 Disponivel = true;
+                Console.WriteLine("Quarto liberado com sucesso!");
             }
             else 
             {
