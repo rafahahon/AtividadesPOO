@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\obj\Debug\net9.0\Atividade Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\obj\Debug\net9.0\Atividade Funcionarios.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\obj\Debug\net9.0\Atividade Funcionarios.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\obj\Debug\net9.0\Atividade Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\obj\Debug\net9.0\Atividade Funcionarios.sourcelink.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\bin\Debug\net9.0\Atividade Funcionarios.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\bin\Debug\net9.0\Atividade Funcionarios.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\bin\Debug\net9.0\Atividade Funcionarios.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\bin\Debug\net9.0\Atividade Funcionarios.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\bin\Debug\net9.0\Atividade Funcionarios.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\obj\Debug\net9.0\Atividade Funcionarios.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\obj\Debug\net9.0\refint\Atividade Funcionarios.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\obj\Debug\net9.0\Atividade Funcionarios.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\obj\Debug\net9.0\Atividade Funcionarios.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Funcionarios\obj\Debug\net9.0\ref\Atividade Funcionarios.dll

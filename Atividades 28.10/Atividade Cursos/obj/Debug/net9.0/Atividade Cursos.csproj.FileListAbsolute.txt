@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\obj\Debug\net9.0\Atividade Cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\obj\Debug\net9.0\Atividade Cursos.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\obj\Debug\net9.0\Atividade Cursos.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\obj\Debug\net9.0\Atividade Cursos.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\obj\Debug\net9.0\Atividade Cursos.sourcelink.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\bin\Debug\net9.0\Atividade Cursos.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\bin\Debug\net9.0\Atividade Cursos.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\bin\Debug\net9.0\Atividade Cursos.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\bin\Debug\net9.0\Atividade Cursos.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\bin\Debug\net9.0\Atividade Cursos.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\obj\Debug\net9.0\Atividade Cursos.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\obj\Debug\net9.0\refint\Atividade Cursos.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\obj\Debug\net9.0\Atividade Cursos.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\obj\Debug\net9.0\Atividade Cursos.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Cursos\obj\Debug\net9.0\ref\Atividade Cursos.dll

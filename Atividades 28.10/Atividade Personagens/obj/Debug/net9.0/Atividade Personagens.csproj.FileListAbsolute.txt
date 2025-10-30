@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\obj\Debug\net9.0\Atividade Personagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\obj\Debug\net9.0\Atividade Personagens.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\obj\Debug\net9.0\Atividade Personagens.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\obj\Debug\net9.0\Atividade Personagens.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\obj\Debug\net9.0\Atividade Personagens.sourcelink.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\bin\Debug\net9.0\Atividade Personagens.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\bin\Debug\net9.0\Atividade Personagens.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\bin\Debug\net9.0\Atividade Personagens.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\bin\Debug\net9.0\Atividade Personagens.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\bin\Debug\net9.0\Atividade Personagens.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\obj\Debug\net9.0\Atividade Personagens.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\obj\Debug\net9.0\refint\Atividade Personagens.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\obj\Debug\net9.0\Atividade Personagens.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\obj\Debug\net9.0\Atividade Personagens.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividades 28.10\Atividade Personagens\obj\Debug\net9.0\ref\Atividade Personagens.dll
