@@ -2,8 +2,8 @@ namespace Atividade_29._10
 {
     public class Veiculo
     {
-        public string Marca { get; set; }
-        public string Modelo { get; set; }
+        public string Marca { get; set; } = string.Empty;
+        public string Modelo { get; set; } = string.Empty;
         public int Ano { get; set; }
 
         public virtual void Ligar()

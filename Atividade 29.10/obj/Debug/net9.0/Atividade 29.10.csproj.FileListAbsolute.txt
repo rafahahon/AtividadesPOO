@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\bin\Debug\net9.0\Atividade 29.10.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\bin\Debug\net9.0\Atividade 29.10.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\bin\Debug\net9.0\Atividade 29.10.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\bin\Debug\net9.0\Atividade 29.10.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\bin\Debug\net9.0\Atividade 29.10.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\obj\Debug\net9.0\Atividade 29.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\obj\Debug\net9.0\Atividade 29.10.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\obj\Debug\net9.0\Atividade 29.10.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\obj\Debug\net9.0\Atividade 29.10.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\obj\Debug\net9.0\Atividade 29.10.sourcelink.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\obj\Debug\net9.0\Atividade 29.10.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\obj\Debug\net9.0\refint\Atividade 29.10.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\obj\Debug\net9.0\Atividade 29.10.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\obj\Debug\net9.0\Atividade 29.10.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AtividadesPOO\Atividade 29.10\obj\Debug\net9.0\ref\Atividade 29.10.dll
