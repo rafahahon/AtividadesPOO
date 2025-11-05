@@ -4,22 +4,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        Gerente gerente1 = new Gerente
+        List<Funcionario> funcionarios = new List<Funcionario>
         {
-            Nome = "Rebeca",
-            SalarioBase = 5000.00
+            new Gerente("Rafaella", 5000),
+            new Vendedor("Mayara", 3000)
         };
 
-        Vendedor vendedor1 = new Vendedor
+        foreach(var funcionario in funcionarios)
         {
-            Nome = "Tomas",
-            SalarioBase = 2000.00
-        };
-
-        gerente1.CalcularSalario();
-        gerente1.ExibirResumo();
-
-        vendedor1.CalcularSalario();
-        vendedor1.ExibirResumo();
+            funcionario.ExibirResumo();
+        }
     }
 }

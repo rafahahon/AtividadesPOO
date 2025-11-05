@@ -2,9 +2,11 @@ namespace Atividade_Funcionarios
 {
     public class Gerente : Funcionario
     {
-        public override void CalcularSalario()
+        public Gerente(string NomeConstrutor, double SalarioBaseConstrutor) : base(NomeConstrutor, SalarioBaseConstrutor) {}
+
+        public override double CalcularSalario()
         {
-            SalarioBase = SalarioBase + (SalarioBase * 0.5);
+            return SalarioBase * 1.5;
         }
     }
 }

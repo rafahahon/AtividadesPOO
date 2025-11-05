@@ -2,12 +2,12 @@ namespace Atividade_Personagens
 {
     public class Mago : Personagem
     {
+        public Mago(string NomeConstrutor, int NivelConstrutor) : base(NomeConstrutor, NivelConstrutor) { }
         public int Poder;
 
-        public override void CalcularPoder()
+        public override int CalcularPoder()
         {
-            Poder = Nivel * 8 + 20;
-            Nivel = Poder;
+            return Poder = Nivel* 8 + 20;
         }
     }
 }

@@ -6,17 +6,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Curso curso1 = new CursoTecnico()
-        {
-            Nome = "Excel",
-            Horas = 5
-        };
+        Curso curso1 = new CursoTecnico("Excel", 5) { };
 
-        Curso curso2 = new CursoSuperior()
-        {
-            Nome = "ADS",
-            Horas = 1000
-        };
+        Curso curso2 = new CursoSuperior("ADS", 500) { };
 
         curso1.CalcularPreco();
         curso1.ExibirResumo();

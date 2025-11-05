@@ -4,9 +4,12 @@ namespace Atividade_Cursos
 {
     public class CursoTecnico : Curso
     {
-        public override void CalcularPreco()
+        public CursoTecnico(string NomeConstrutor, double HorasConstrutor) : base(NomeConstrutor, HorasConstrutor) { }
+        public double Valor;
+        
+        public override double CalcularPreco()
         {
-            Valor = Horas * 20;
+            return Valor = Horas * 20;
         }
     }
 }

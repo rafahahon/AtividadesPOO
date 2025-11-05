@@ -5,10 +5,16 @@ namespace Atividade_Personagens
         public string Nome { get; set; } = string.Empty;
         public int Nivel { get; set; }
 
-        public abstract void CalcularPoder();
+        public Personagem(string NomeConstrutor, int NivelConstrutor)
+        {
+            Nome = NomeConstrutor;
+            Nivel = NivelConstrutor;
+        }
+
+        public abstract int CalcularPoder();
         public void ExibirStatus()
         {
-            Console.WriteLine($"O(a): {Nome} está no nível {Nivel}.");
+            Console.WriteLine($"O(a): {Nome} começou no nível: {Nivel} e está atualmente no nível: {CalcularPoder()}.");
         }
     }
 }

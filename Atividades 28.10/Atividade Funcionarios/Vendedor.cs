@@ -2,9 +2,11 @@ namespace Atividade_Funcionarios
 {
     public class Vendedor : Funcionario
     {
-        public override void CalcularSalario()
+        public Vendedor(string NomeConstrutor, double SalarioBaseConstrutor) : base(NomeConstrutor, SalarioBaseConstrutor) {}
+
+        public override double CalcularSalario()
         {
-            SalarioBase = SalarioBase + (SalarioBase * 0.2);
+            return SalarioBase * 1.2;
         }
     }
 }

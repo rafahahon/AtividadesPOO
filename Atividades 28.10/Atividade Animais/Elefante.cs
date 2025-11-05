@@ -2,6 +2,8 @@ namespace Atividade_Animais
 {
     public class Elefante : Animal
     {
+        public Elefante(string NomeConstrutor) : base(NomeConstrutor) { }
+        
         public override void EmitirSom()
         {
             Console.WriteLine("O som do elefante é o barrito.");

@@ -4,6 +4,8 @@ namespace Atividade_Animais
 {
     public class Leao : Animal
     {
+        public Leao(string NomeConstrutor) : base(NomeConstrutor) {}
+
         public override void EmitirSom()
         {
             Console.WriteLine("O som do leão é o rugido.");
